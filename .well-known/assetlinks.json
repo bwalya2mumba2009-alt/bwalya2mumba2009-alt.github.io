@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aistudio.auraalarm.twdhqp",
+      "sha256_cert_fingerprints":
+        ["BA:31:84:33:9C:82:9F:39:A0:65:D0:3A:77:FF:8A:3E:6D:77:67:65:1A:E1:08:EE:F9:39:BB:3C:CF:6E:35:13"]
+    }
+  }
+]
